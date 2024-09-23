@@ -21,15 +21,7 @@ O **Jogo do Número Secreto** é um jogo simples onde o objetivo é adivinhar um
 
 - O jogo possui uma funcionalidade de voz responsiva usando o **Responsive Voice** em Português (Brasil). O jogador pode habilitar essa opção para receber dicas por áudio.
 
-## Instalação
-
-Para jogar o **Jogo do Número Secreto**, basta clonar este repositório e abrir o arquivo `index.html` em seu navegador.
-
-```bash
-git clone https://github.com/seu-usuario/jogo-numero-secreto.git
-cd jogo-numero-secreto
-
-## Contribuição
+- ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar um pull request ou abrir uma issue para sugerir melhorias.
 
@@ -40,3 +32,14 @@ Este projeto é de código aberto e está disponível sob a licença XYZ (se apl
 ## Agradecimentos
 
 Projeto criado em parceria com o curso de Lógica de Programação da **Alura**.
+
+
+## Instalação
+
+Para jogar o **Jogo do Número Secreto**, basta clonar este repositório e abrir o arquivo `index.html` em seu navegador.
+
+```bash
+git clone https://github.com/daniloazeveedo/jogo-do-numero-secreto.git
+cd jogo-numero-secreto
+****
+
